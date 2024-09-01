@@ -33,8 +33,9 @@ Feel free to connect with me on:
 
 I enjoy exploring and contributing to various open-source projects. Here are some repositories I’ve contributed to:
 
-- [Repo 1](https://github.com/your-profile/repo1)
-- [Repo 2](https://github.com/your-profile/repo2)
+- [Guessing Game with Cargo](https://github.com/girish-chaudhari/guessing_game_with_cargo)
+- [Gdev Blog](https://github.com/girish-chaudhari/gdev.blog)
+- [Turbo Monorepo with Next.js](https://github.com/girish-chaudhari/turbo-monorepo-with-nextjs)
 
 Thank you for visiting my profile!
 
